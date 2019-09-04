@@ -1,1 +1,3 @@
-# wordlist_
+# wordlist
+
+Compile g++ -pthread 
